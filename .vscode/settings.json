@@ -1,0 +1,5 @@
+{
+    "editor.columnSelection": true,
+    "files.autoSave": "afterDelay",
+    "workbench.activityBar.iconClickBehavior": "focus"
+}
